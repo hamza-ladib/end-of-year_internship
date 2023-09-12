@@ -1,13 +1,12 @@
 {
     "type": "service_account",
-    "project_id": "ethereal-fort-384020",
-    "private_key_id": "051cfb87771506f9ca73591565d3d22f1789c8fd",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQA5C5syIdMZ3M\n5nfKN2/WaWCx5i6Afx8NhU8yOf2RhmWN35mRZ9iaZRUFJwv+X+spQtzi9Khlzjhl\nsfSfMzkOYkFgT+JzCUsjEm8qo3/b8imCO9Rb2nhZqUGFDtasONGJzoLG0HyDWU/g\nJPXJIGNcZVUB2rljY0/Goadgb7p8b75gg6O+Ebd0lL9APi4JhmRhkmKY2pMJHODJ\ncxSm7OOBB33BEUYBj0NaxaWtpTmGC9c2Jl7x59vELOlHmP9tRJ4ovPIXxEWYQESW\nYYIWGo6Wtl4jJoQABK18o0/geYH1yEdfDqtPZgEWlXNb44JsdlMu6iHNk/PrETZW\nWkG0ls/dAgMBAAECggEAMli+kXe+OMcuzK52jXLsBn8UaJKQLEk4ZJ8gu0Umbq/T\nCir1wigamMoA87GO+VdRdXfpuyPg0109sL2I+fRdqbHV5YAITPQRo9A9KFqQ4pUi\n/1LIVCAVc4wgH9qm0mHhM4PQitrg3DDEgLmpZLAKZI1hLRT5vIjHwQmU16ZLQn0g\np7W4s4Q3u4gOV8ZXBmbVqYFoDG1yWOhDOyd9jNPwoezU6pkyJ9D30vEwx2WLmk04\nEZDwDxUxgLAASHzjVrdCJzrPdbFrlI2NjUkNAIoFU77ArHLKeftzS5u3xZpixNPg\n3InYTm0ozsz5rJVrNfq2cBF7kFaIO775V/0DcwwmqQKBgQDm1L6hxCLGS3IAdxLV\nKyrvkK4ZlrLKyvDAUN6yjBnLcaEqNP19Riqhfjidd1ebtAZW3+SQuDxBN5aMcwr1\nGTVeXWZwwV8SQ6M5afkHjcPgSu4UDV1TsU07nF954ZvVd31J1c2iv4Yr2KcoPO6S\nVu6lXAZM3TU1GTGWEJkN9Lg3iQKBgQDmseuERS65IVwzse4p4VM2Wk9KIPPe8dRQ\nBphA1lfZfNONouuOxt+73eoW9zsiJF2CU1PmO0vZlv4tRu3FdCeCFc/JThXwD05/\na75m25U5t1GlLqLrocG1cNdron364HKXoMwkPW3ZDzZLMU4mMAHWBXiAawtydTuO\nW94LH2wstQKBgQCfh1Z8XB4gZ1HRinmkg2H4EUiRfLnyN1EtyHYwdWz6Unysu9SY\n+J5L3/zmru0IOeHLto6zifByriVIydU/0P02S1yZ/rpi2AX9jwTBuLMv1vk1OItQ\nZQ/Ya9j8VfSqEhuvpKiqmqzyrpfP0lSbJKNn+vKLurGkEdZYPP5aS8/o6QKBgQCQ\nnJNgVOXXEzxzA2SiSCcbeT0e4M0+wiUvDRNAAZ0MLp2GucwjsjLp11A4mT4uRtF/\nMrDzL9R6T5aB12aRUiC6AOZB8Hr8AvxYD7hJTfibN3ksrLFgOAPvsw624CNMsoni\n1t9hEEjduhV0yTGN6qYb/U3uYivI0ghFUv07x7TNyQKBgQDlP2pUMIbT2Vdf20WM\nGuCnSCFU7Gji6Hxgb851fZlZMANRKhbynE1uNGBOyQrevxM2xhxRpo0je8LssCH5\nbQpO6SYiWxIR8Wrgd3G1e88d5x5p2QXbQktzhAigcZ6cLCT6HqZ98rBNttzYBWMH\n1wPePUuK7Nac+yh95NBgKfNKZA==\n-----END PRIVATE KEY-----\n",
-    "client_email": "pfa-2023@ethereal-fort-384020.iam.gserviceaccount.com",
-    "client_id": "105066335282197731125",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pfa-2023%40ethereal-fort-384020.iam.gserviceaccount.com"
+    "project_id": "",
+    "private_key_id": "",
+    "private_key": ""
+    "client_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_x509_cert_url": ""
   }
   
